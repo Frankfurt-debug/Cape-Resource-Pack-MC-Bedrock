@@ -3,11 +3,11 @@
     "header": {
         "description": "§oBy §cDanspark",
         "name": "§l§bCape Resource Pack§r",
-        "uuid": "fbb713e7-7db0-4e98-8dbf-a065f9e27470",
+        "uuid": "16870b03-ca88-4b11-ac49-479b7b475711",
         "version": [
             1,
             0,
-            3
+            4
         ],
         "min_engine_version": [
             1,
@@ -19,11 +19,11 @@
         {
             "description": "§oBy §cDanspark",
             "type": "resources",
-            "uuid": "c28b7a5d-529f-4785-a5a7-51cef1a916c9",
+            "uuid": "0b1567c5-6413-4441-af6d-6158cf72b166",
             "version": [
                 1,
                 0,
-                3
+                4
             ]
         }
     ],
@@ -119,6 +119,11 @@
             "name": "§dValentine Cape"
         },
         {
+            "folder_name": "Oxeye",
+            "memory_tier": 1,
+            "name": "§8Oxeye Cape"
+        },
+        {
             "folder_name": "CrowdinTranslator",
             "memory_tier": 1,
             "name": "§gTranslator Cape"
@@ -199,6 +204,11 @@
             "name": "§aOne Vanilla Cape"
         },
         {
+            "folder_name": "Grass",
+            "memory_tier": 1,
+            "name": "§2Common Cape"
+        },
+        {
             "folder_name": "Tiktok",
             "memory_tier": 1,
             "name": "§cFollower's Cape"
@@ -227,6 +237,21 @@
             "folder_name": "Creaking",
             "memory_tier": 1,
             "name": "§nMojang Office Cape"
+        },
+        {
+            "folder_name": "Home",
+            "memory_tier": 1,
+            "name": "§bHome Cape"
+        },
+        {
+            "folder_name": "Menace",
+            "memory_tier": 1,
+            "name": "§4Menace Cape"
+        },
+        {
+            "folder_name": "Yearn",
+            "memory_tier": 1,
+            "name": "§7Yearn Cape"
         },
         {
             "folder_name": "Ecko",
